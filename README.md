@@ -1,4 +1,4 @@
-#Bug Demonstration for JSDoc (static inner classes)
+# Bug Demonstration for JSDoc (static inner classes)
 
 JSDoc will give the following error when running `npm run test` on
 my machine, which is due to a static inner class:
