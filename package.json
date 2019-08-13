@@ -1,0 +1,14 @@
+{
+  "name": "jsdoc-bug-static-inner-class",
+  "version": "1.0.0",
+  "description": "JSDoc Demo for documenting static inner classes in ES6",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jsdoc -c ./.jsdoc.conf.json --verbose"
+  },
+  "author": "Shukant Pal",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdoc": "^3.6.3"
+  }
+}
